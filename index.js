@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     ...StyleSheet.absoluteFillObject,
+    marginTop: 180
   },
   finder: {
     alignItems: 'center',
